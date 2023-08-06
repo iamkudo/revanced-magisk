@@ -1,6 +1,5 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-apkmirror-arch = "both"
 build-mode = "both"
 version = "latest"
 
@@ -9,11 +8,10 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+version = "latest"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-apkmirror-arch = "both"
-version = "latest"
 included-patches = "sim-spoof"
 
 [Reddit]
@@ -21,6 +19,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+version = "latest"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"

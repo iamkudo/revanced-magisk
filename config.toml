@@ -12,6 +12,9 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+apkmirror-arch = "both"
+version = "latest"
+included-patches = "sim-spoof"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
